@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/129084273/227983484-f09b5026-59e1-4ee9-a367-a9ae2c59709b.png)
 
 <!--
 **gillism24/gillism24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
